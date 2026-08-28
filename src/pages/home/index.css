@@ -1,3 +1,28 @@
 .tittle {
     font-family: 'Times New Roman', Times, serif;
+    -ms-flex-align: center;
+}
+.tittle h3 {
+    font-family: "Dancing Script";
+}
+.products li{
+    font-family: "Space Mono" ;
+}
+.tittle img {
+    width: 94%;
+    height: auto;
+    border-radius: 50px;
+    display: block;
+    margin: 3% 3%;
+    
+}
+.header{
+    background-color: antiquewhite;
+}
+.promocao{
+    width: 350px;
+    max-width: 700px;
+}
+.image2 {
+    width: 100%;
 }
